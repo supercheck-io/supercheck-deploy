@@ -1,0 +1,6 @@
+# Global owners
+*       @supercheck-io/maintainers
+
+# Deployment specific
+/docker/ @supercheck-io/deploy-maintainers
+/k8s/    @supercheck-io/k8s-maintainers
