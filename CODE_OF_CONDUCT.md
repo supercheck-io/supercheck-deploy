@@ -18,6 +18,6 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported via email to **security@supercheck.io**. All complaints will be reviewed and investigated.
+Instances of unacceptable behavior may be reported via email to **hello@supercheck.io**. All complaints will be reviewed and investigated.
 
 Project maintainers have the right to remove, edit, or reject contributions that do not align with this Code of Conduct.

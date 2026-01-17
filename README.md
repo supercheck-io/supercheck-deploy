@@ -1,4 +1,4 @@
-# <img src="./supercheck-logo.png" alt="Supercheck Logo" width="36" height="36" style="vertical-align: middle; margin-right: 2px;"> Supercheck
+<h1><img src="./supercheck-logo.png" alt="Supercheck Logo" width="40" height="40" align="top"> Supercheck Deploy</h1>
 
 **Community-Supported Deployment Arrangements**
 
