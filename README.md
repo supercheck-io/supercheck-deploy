@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/supercheck-io/supercheck/main/supercheck-logo.png" alt="Supercheck Logo" width="75">
-
-# Supercheck Deploy
+# <img src="./supercheck-logo.png" alt="Supercheck Logo" width="36" height="36" style="vertical-align: middle; margin-right: 2px;"> Supercheck
 
 **Community-Supported Deployment Arrangements**
 
